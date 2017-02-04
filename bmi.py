@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Robert Villareal
-Homework 1
-Due:2/2/2017
-
-"""
-
 
 def main():
     print ("Find out your body mass index! ")
